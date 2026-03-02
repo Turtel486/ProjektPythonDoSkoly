@@ -1,9 +1,11 @@
 # ProjektPythonDoSkoly
 jsem línej něco teď vymýšlet
 
+1. Část
+vytvorit github √
 
-vytvorit github
+early stage grafika √
+zakadni kod/diagramy √
+popsat ten kod √
 
-early stage grafika
-zakadni kod/diagramy
-popsat ten kod
+2. Část
